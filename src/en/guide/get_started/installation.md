@@ -49,6 +49,7 @@ pip install -e .
 ### Install submodules
 
 - RAG, `pip install -e .[rag]`
+- Mac Rag, 'pip install -e '.[rag]''
 
 ## Install with Docker
 
